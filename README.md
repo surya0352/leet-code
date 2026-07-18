@@ -19,8 +19,13 @@ Leet Code Solutions
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/surya0352/leet-code/tree/main/C++/Easy/3541-find-most-frequent-vowel-and-consonant/) | Easy |
+| [3794-reverse-string-prefix](https://github.com/surya0352/leet-code/tree/main/C++/Easy/3794-reverse-string-prefix/) | Easy |
 ## Counting
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/surya0352/leet-code/tree/main/C++/Easy/3541-find-most-frequent-vowel-and-consonant/) | Easy |
+## Two Pointers
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3794-reverse-string-prefix](https://github.com/surya0352/leet-code/tree/main/C++/Easy/3794-reverse-string-prefix/) | Easy |
 <!---LeetCode Topics End-->
