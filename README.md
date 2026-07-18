@@ -7,6 +7,7 @@ Leet Code Solutions
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0371-sum-of-two-integers](https://github.com/surya0352/leet-code/tree/main/C++/Medium/0371-sum-of-two-integers/) | Medium |
+| [3516-find-closest-person](https://github.com/surya0352/leet-code/tree/main/C++/Easy/3516-find-closest-person/) | Easy |
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
