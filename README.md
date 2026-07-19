@@ -8,19 +8,6 @@ Leet Code Solutions
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/surya0352/leet-code/tree/main/C++/Easy/3541-find-most-frequent-vowel-and-consonant/) | Easy |
 | [3794-reverse-string-prefix](https://github.com/surya0352/leet-code/tree/main/C++/Easy/3794-reverse-string-prefix/) | Easy |
 | [3794-reverse-string-prefix](https://github.com/surya0352/leet-code/tree/main/C++/Easy/3794-reverse-string-prefix/) | Easy |
-
-<!---LeetCode Topics Start-->
-# LeetCode Topics
-## Hash Table
-| Problem Name | Difficulty |
-| ------- | ------- |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/surya0352/leet-code/tree/main/C++/Medium/3760-maximum-substrings-with-distinct-start/) | Medium |
-## String
-| Problem Name | Difficulty |
-| ------- | ------- |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/surya0352/leet-code/tree/main/C++/Medium/3760-maximum-substrings-with-distinct-start/) | Medium |
-## Math
-| Problem Name | Difficulty |
-| ------- | ------- |
 | [2894-divisible-and-non-divisible-sums-difference](https://github.com/surya0352/leet-code/tree/main/C++/Easy/2894-divisible-and-non-divisible-sums-difference/) | Easy |
-<!---LeetCode Topics End-->
