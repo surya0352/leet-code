@@ -11,3 +11,15 @@ Leet Code Solutions
 | [3760-maximum-substrings-with-distinct-start](https://github.com/surya0352/leet-code/tree/main/C++/Medium/3760-maximum-substrings-with-distinct-start/) | Medium |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/surya0352/leet-code/tree/main/C++/Medium/3760-maximum-substrings-with-distinct-start/) | Medium |
 | [2894-divisible-and-non-divisible-sums-difference](https://github.com/surya0352/leet-code/tree/main/C++/Easy/2894-divisible-and-non-divisible-sums-difference/) | Easy |
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Array
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3668-restore-finishing-order](https://github.com/surya0352/leet-code/tree/main/C++/Easy/3668-restore-finishing-order/) | Easy |
+## Hash Table
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3668-restore-finishing-order](https://github.com/surya0352/leet-code/tree/main/C++/Easy/3668-restore-finishing-order/) | Easy |
+<!---LeetCode Topics End-->
