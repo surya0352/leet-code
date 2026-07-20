@@ -17,9 +17,14 @@ Leet Code Solutions
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/surya0352/leet-code/tree/main/C++/Easy/3190-find-minimum-operations-to-make-all-elements-divisible-by-three/) | Easy |
 | [3668-restore-finishing-order](https://github.com/surya0352/leet-code/tree/main/C++/Easy/3668-restore-finishing-order/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3668-restore-finishing-order](https://github.com/surya0352/leet-code/tree/main/C++/Easy/3668-restore-finishing-order/) | Easy |
+## Math
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/surya0352/leet-code/tree/main/C++/Easy/3190-find-minimum-operations-to-make-all-elements-divisible-by-three/) | Easy |
 <!---LeetCode Topics End-->
