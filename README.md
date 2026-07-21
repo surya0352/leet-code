@@ -17,3 +17,15 @@ Leet Code Solutions
 | [3668-restore-finishing-order](https://github.com/surya0352/leet-code/tree/main/C++/Easy/3668-restore-finishing-order/) | Easy |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/surya0352/leet-code/tree/main/C++/Easy/3190-find-minimum-operations-to-make-all-elements-divisible-by-three/) | Easy |
 | [2942-find-words-containing-character](https://github.com/surya0352/leet-code/tree/main/C++/Easy/2942-find-words-containing-character/) | Easy |
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Array
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0136-single-number](https://github.com/surya0352/leet-code/tree/main/C++/Easy/0136-single-number/) | Easy |
+## Bit Manipulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0136-single-number](https://github.com/surya0352/leet-code/tree/main/C++/Easy/0136-single-number/) | Easy |
+<!---LeetCode Topics End-->
