@@ -17,6 +17,7 @@ Leet Code Solutions
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [2942-find-words-containing-character](https://github.com/surya0352/leet-code/tree/main/C++/Easy/2942-find-words-containing-character/) | Easy |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/surya0352/leet-code/tree/main/C++/Easy/3190-find-minimum-operations-to-make-all-elements-divisible-by-three/) | Easy |
 | [3668-restore-finishing-order](https://github.com/surya0352/leet-code/tree/main/C++/Easy/3668-restore-finishing-order/) | Easy |
 ## Hash Table
@@ -27,4 +28,8 @@ Leet Code Solutions
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/surya0352/leet-code/tree/main/C++/Easy/3190-find-minimum-operations-to-make-all-elements-divisible-by-three/) | Easy |
+## String
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2942-find-words-containing-character](https://github.com/surya0352/leet-code/tree/main/C++/Easy/2942-find-words-containing-character/) | Easy |
 <!---LeetCode Topics End-->
