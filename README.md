@@ -42,4 +42,12 @@ Leet Code Solutions
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0414-third-maximum-number](https://github.com/surya0352/leet-code/tree/main/C++/Easy/0414-third-maximum-number/) | Easy |
+## Two Pointers
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0151-reverse-words-in-a-string](https://github.com/surya0352/leet-code/tree/main/C++/Medium/0151-reverse-words-in-a-string/) | Medium |
+## String
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0151-reverse-words-in-a-string](https://github.com/surya0352/leet-code/tree/main/C++/Medium/0151-reverse-words-in-a-string/) | Medium |
 <!---LeetCode Topics End-->
