@@ -49,8 +49,10 @@ Leet Code Solutions
 | ------- | ------- |
 | [0088-merge-sorted-array](https://github.com/surya0352/leet-code/tree/main/C++/Easy/0088-merge-sorted-array/) | Easy |
 | [0151-reverse-words-in-a-string](https://github.com/surya0352/leet-code/tree/main/C++/Medium/0151-reverse-words-in-a-string/) | Medium |
+| [1768-merge-strings-alternately](https://github.com/surya0352/leet-code/tree/main/C++/Easy/1768-merge-strings-alternately/) | Easy |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0151-reverse-words-in-a-string](https://github.com/surya0352/leet-code/tree/main/C++/Medium/0151-reverse-words-in-a-string/) | Medium |
+| [1768-merge-strings-alternately](https://github.com/surya0352/leet-code/tree/main/C++/Easy/1768-merge-strings-alternately/) | Easy |
 <!---LeetCode Topics End-->
