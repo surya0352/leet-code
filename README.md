@@ -47,6 +47,7 @@ Leet Code Solutions
 | ------- | ------- |
 | [0088-merge-sorted-array](https://github.com/surya0352/leet-code/tree/main/C++/Easy/0088-merge-sorted-array/) | Easy |
 | [0414-third-maximum-number](https://github.com/surya0352/leet-code/tree/main/C++/Easy/0414-third-maximum-number/) | Easy |
+| [3536-maximum-product-of-two-digits](https://github.com/surya0352/leet-code/tree/main/C++/Easy/3536-maximum-product-of-two-digits/) | Easy |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -64,4 +65,8 @@ Leet Code Solutions
 | ------- | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/surya0352/leet-code/tree/main/C++/Medium/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
 | [0287-find-the-duplicate-number](https://github.com/surya0352/leet-code/tree/main/C++/Medium/0287-find-the-duplicate-number/) | Medium |
+## Math
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3536-maximum-product-of-two-digits](https://github.com/surya0352/leet-code/tree/main/C++/Easy/3536-maximum-product-of-two-digits/) | Easy |
 <!---LeetCode Topics End-->
