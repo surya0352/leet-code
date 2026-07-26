@@ -74,6 +74,7 @@ Leet Code Solutions
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0258-add-digits](https://github.com/surya0352/leet-code/tree/main/C++/Easy/0258-add-digits/) | Easy |
 | [0628-maximum-product-of-three-numbers](https://github.com/surya0352/leet-code/tree/main/C++/Easy/0628-maximum-product-of-three-numbers/) | Easy |
 | [3536-maximum-product-of-two-digits](https://github.com/surya0352/leet-code/tree/main/C++/Easy/3536-maximum-product-of-two-digits/) | Easy |
 ## Greedy
@@ -84,4 +85,12 @@ Leet Code Solutions
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/surya0352/leet-code/tree/main/C++/Easy/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
+## Simulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0258-add-digits](https://github.com/surya0352/leet-code/tree/main/C++/Easy/0258-add-digits/) | Easy |
+## Number Theory
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0258-add-digits](https://github.com/surya0352/leet-code/tree/main/C++/Easy/0258-add-digits/) | Easy |
 <!---LeetCode Topics End-->
