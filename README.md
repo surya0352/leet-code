@@ -32,6 +32,7 @@ Leet Code Solutions
 | [1089-duplicate-zeros](https://github.com/surya0352/leet-code/tree/main/C++/Easy/1089-duplicate-zeros/) | Easy |
 | [1394-find-lucky-integer-in-an-array](https://github.com/surya0352/leet-code/tree/main/C++/Easy/1394-find-lucky-integer-in-an-array/) | Easy |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/surya0352/leet-code/tree/main/C++/Easy/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
+| [1920-build-array-from-permutation](https://github.com/surya0352/leet-code/tree/main/C++/Easy/1920-build-array-from-permutation/) | Easy |
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -91,6 +92,7 @@ Leet Code Solutions
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0258-add-digits](https://github.com/surya0352/leet-code/tree/main/C++/Easy/0258-add-digits/) | Easy |
+| [1920-build-array-from-permutation](https://github.com/surya0352/leet-code/tree/main/C++/Easy/1920-build-array-from-permutation/) | Easy |
 ## Number Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
