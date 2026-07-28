@@ -34,6 +34,7 @@ Leet Code Solutions
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/surya0352/leet-code/tree/main/C++/Easy/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [1920-build-array-from-permutation](https://github.com/surya0352/leet-code/tree/main/C++/Easy/1920-build-array-from-permutation/) | Easy |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/surya0352/leet-code/tree/main/C++/Easy/2011-final-value-of-variable-after-performing-operations/) | Easy |
+| [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/surya0352/leet-code/tree/main/C++/Easy/2824-count-pairs-whose-sum-is-less-than-target/) | Easy |
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -55,6 +56,7 @@ Leet Code Solutions
 | [0414-third-maximum-number](https://github.com/surya0352/leet-code/tree/main/C++/Easy/0414-third-maximum-number/) | Easy |
 | [0628-maximum-product-of-three-numbers](https://github.com/surya0352/leet-code/tree/main/C++/Easy/0628-maximum-product-of-three-numbers/) | Easy |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/surya0352/leet-code/tree/main/C++/Easy/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
+| [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/surya0352/leet-code/tree/main/C++/Easy/2824-count-pairs-whose-sum-is-less-than-target/) | Easy |
 | [3536-maximum-product-of-two-digits](https://github.com/surya0352/leet-code/tree/main/C++/Easy/3536-maximum-product-of-two-digits/) | Easy |
 ## Two Pointers
 | Problem Name | Difficulty |
@@ -64,6 +66,7 @@ Leet Code Solutions
 | [0287-find-the-duplicate-number](https://github.com/surya0352/leet-code/tree/main/C++/Medium/0287-find-the-duplicate-number/) | Medium |
 | [1089-duplicate-zeros](https://github.com/surya0352/leet-code/tree/main/C++/Easy/1089-duplicate-zeros/) | Easy |
 | [1768-merge-strings-alternately](https://github.com/surya0352/leet-code/tree/main/C++/Easy/1768-merge-strings-alternately/) | Easy |
+| [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/surya0352/leet-code/tree/main/C++/Easy/2824-count-pairs-whose-sum-is-less-than-target/) | Easy |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -77,6 +80,7 @@ Leet Code Solutions
 | ------- | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/surya0352/leet-code/tree/main/C++/Medium/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
 | [0287-find-the-duplicate-number](https://github.com/surya0352/leet-code/tree/main/C++/Medium/0287-find-the-duplicate-number/) | Medium |
+| [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/surya0352/leet-code/tree/main/C++/Easy/2824-count-pairs-whose-sum-is-less-than-target/) | Easy |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
