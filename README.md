@@ -35,6 +35,7 @@ Leet Code Solutions
 | [1920-build-array-from-permutation](https://github.com/surya0352/leet-code/tree/main/C++/Easy/1920-build-array-from-permutation/) | Easy |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/surya0352/leet-code/tree/main/C++/Easy/2011-final-value-of-variable-after-performing-operations/) | Easy |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/surya0352/leet-code/tree/main/C++/Easy/2824-count-pairs-whose-sum-is-less-than-target/) | Easy |
+| [3697-compute-decimal-representation](https://github.com/surya0352/leet-code/tree/main/C++/Easy/3697-compute-decimal-representation/) | Easy |
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -87,6 +88,7 @@ Leet Code Solutions
 | [0258-add-digits](https://github.com/surya0352/leet-code/tree/main/C++/Easy/0258-add-digits/) | Easy |
 | [0628-maximum-product-of-three-numbers](https://github.com/surya0352/leet-code/tree/main/C++/Easy/0628-maximum-product-of-three-numbers/) | Easy |
 | [3536-maximum-product-of-two-digits](https://github.com/surya0352/leet-code/tree/main/C++/Easy/3536-maximum-product-of-two-digits/) | Easy |
+| [3697-compute-decimal-representation](https://github.com/surya0352/leet-code/tree/main/C++/Easy/3697-compute-decimal-representation/) | Easy |
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
