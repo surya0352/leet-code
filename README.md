@@ -41,6 +41,7 @@ Leet Code Solutions
 | ------- | ------- |
 | [0136-single-number](https://github.com/surya0352/leet-code/tree/main/C++/Easy/0136-single-number/) | Easy |
 | [0287-find-the-duplicate-number](https://github.com/surya0352/leet-code/tree/main/C++/Medium/0287-find-the-duplicate-number/) | Medium |
+| [0338-counting-bits](https://github.com/surya0352/leet-code/tree/main/C++/Easy/0338-counting-bits/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -114,4 +115,8 @@ Leet Code Solutions
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/surya0352/leet-code/tree/main/C++/Easy/0020-valid-parentheses/) | Easy |
+## Dynamic Programming
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0338-counting-bits](https://github.com/surya0352/leet-code/tree/main/C++/Easy/0338-counting-bits/) | Easy |
 <!---LeetCode Topics End-->
