@@ -32,6 +32,7 @@ Leet Code Solutions
 | [0414-third-maximum-number](https://github.com/surya0352/leet-code/tree/main/C++/Easy/0414-third-maximum-number/) | Easy |
 | [0628-maximum-product-of-three-numbers](https://github.com/surya0352/leet-code/tree/main/C++/Easy/0628-maximum-product-of-three-numbers/) | Easy |
 | [1089-duplicate-zeros](https://github.com/surya0352/leet-code/tree/main/C++/Easy/1089-duplicate-zeros/) | Easy |
+| [1207-unique-number-of-occurrences](https://github.com/surya0352/leet-code/tree/main/C++/Easy/1207-unique-number-of-occurrences/) | Easy |
 | [1394-find-lucky-integer-in-an-array](https://github.com/surya0352/leet-code/tree/main/C++/Easy/1394-find-lucky-integer-in-an-array/) | Easy |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/surya0352/leet-code/tree/main/C++/Easy/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [1920-build-array-from-permutation](https://github.com/surya0352/leet-code/tree/main/C++/Easy/1920-build-array-from-permutation/) | Easy |
@@ -51,6 +52,7 @@ Leet Code Solutions
 | ------- | ------- |
 | [0217-contains-duplicate](https://github.com/surya0352/leet-code/tree/main/C++/Easy/0217-contains-duplicate/) | Easy |
 | [0409-longest-palindrome](https://github.com/surya0352/leet-code/tree/main/C++/Easy/0409-longest-palindrome/) | Easy |
+| [1207-unique-number-of-occurrences](https://github.com/surya0352/leet-code/tree/main/C++/Easy/1207-unique-number-of-occurrences/) | Easy |
 | [1394-find-lucky-integer-in-an-array](https://github.com/surya0352/leet-code/tree/main/C++/Easy/1394-find-lucky-integer-in-an-array/) | Easy |
 | [3731-find-missing-elements](https://github.com/surya0352/leet-code/tree/main/C++/Easy/3731-find-missing-elements/) | Easy |
 ## Counting
