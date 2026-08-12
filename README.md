@@ -41,6 +41,7 @@ Leet Code Solutions
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/surya0352/leet-code/tree/main/C++/Easy/2824-count-pairs-whose-sum-is-less-than-target/) | Easy |
 | [3697-compute-decimal-representation](https://github.com/surya0352/leet-code/tree/main/C++/Easy/3697-compute-decimal-representation/) | Easy |
 | [3731-find-missing-elements](https://github.com/surya0352/leet-code/tree/main/C++/Easy/3731-find-missing-elements/) | Easy |
+| [3895-count-digit-appearances](https://github.com/surya0352/leet-code/tree/main/C++/Medium/3895-count-digit-appearances/) | Medium |
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -105,6 +106,7 @@ Leet Code Solutions
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/surya0352/leet-code/tree/main/C++/Easy/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
 | [3536-maximum-product-of-two-digits](https://github.com/surya0352/leet-code/tree/main/C++/Easy/3536-maximum-product-of-two-digits/) | Easy |
 | [3697-compute-decimal-representation](https://github.com/surya0352/leet-code/tree/main/C++/Easy/3697-compute-decimal-representation/) | Easy |
+| [3895-count-digit-appearances](https://github.com/surya0352/leet-code/tree/main/C++/Medium/3895-count-digit-appearances/) | Medium |
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
