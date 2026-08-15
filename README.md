@@ -25,6 +25,7 @@ Leet Code Solutions
 | ------- | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/surya0352/leet-code/tree/main/C++/Medium/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
 | [0088-merge-sorted-array](https://github.com/surya0352/leet-code/tree/main/C++/Easy/0088-merge-sorted-array/) | Easy |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/surya0352/leet-code/tree/main/C++/Easy/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0136-single-number](https://github.com/surya0352/leet-code/tree/main/C++/Easy/0136-single-number/) | Easy |
 | [0217-contains-duplicate](https://github.com/surya0352/leet-code/tree/main/C++/Easy/0217-contains-duplicate/) | Easy |
 | [0283-move-zeroes](https://github.com/surya0352/leet-code/tree/main/C++/Easy/0283-move-zeroes/) | Easy |
@@ -135,6 +136,7 @@ Leet Code Solutions
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/surya0352/leet-code/tree/main/C++/Easy/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0338-counting-bits](https://github.com/surya0352/leet-code/tree/main/C++/Easy/0338-counting-bits/) | Easy |
 ## Geometry
 | Problem Name | Difficulty |
