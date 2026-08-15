@@ -28,6 +28,7 @@ Leet Code Solutions
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/surya0352/leet-code/tree/main/C++/Easy/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0136-single-number](https://github.com/surya0352/leet-code/tree/main/C++/Easy/0136-single-number/) | Easy |
 | [0217-contains-duplicate](https://github.com/surya0352/leet-code/tree/main/C++/Easy/0217-contains-duplicate/) | Easy |
+| [0238-product-of-array-except-self](https://github.com/surya0352/leet-code/tree/main/C++/Medium/0238-product-of-array-except-self/) | Medium |
 | [0283-move-zeroes](https://github.com/surya0352/leet-code/tree/main/C++/Easy/0283-move-zeroes/) | Easy |
 | [0287-find-the-duplicate-number](https://github.com/surya0352/leet-code/tree/main/C++/Medium/0287-find-the-duplicate-number/) | Medium |
 | [0414-third-maximum-number](https://github.com/surya0352/leet-code/tree/main/C++/Easy/0414-third-maximum-number/) | Easy |
@@ -142,4 +143,8 @@ Leet Code Solutions
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1266-minimum-time-visiting-all-points](https://github.com/surya0352/leet-code/tree/main/C++/Easy/1266-minimum-time-visiting-all-points/) | Easy |
+## Prefix Sum
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0238-product-of-array-except-self](https://github.com/surya0352/leet-code/tree/main/C++/Medium/0238-product-of-array-except-self/) | Medium |
 <!---LeetCode Topics End-->
