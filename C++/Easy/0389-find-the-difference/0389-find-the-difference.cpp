@@ -1,20 +1,15 @@
 class Solution {
 public:
     char findTheDifference(string s, string t) {
-        int freq[26] = {0};
-
-        for (char ch : s) {
-            freq[ch - 'a']++;
-        }
-
-        for (char ch : t) {
-            freq[ch - 'a']--;
-
-            if (freq[ch - 'a'] < 0) {
-                return ch;
+        sort(s.begin(),s.end());
+        sort(t.begin(),t.end());
+        for(int i=0;i<s.length();i++)
+        {
+            if(s[i]!=t[i])
+            {
+                return t[i];
             }
         }
-
-        return ' ';
+        return t[t.length() - 1];
     }
 };
