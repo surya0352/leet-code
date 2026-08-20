@@ -1,14 +1,20 @@
 class Solution {
 public:
     char findTheDifference(string s, string t) {
-        int sum = 0;
+        int freq[26] = {0};
 
-        for (char ch : t)
-            sum += ch;
+        for (char ch : s) {
+            freq[ch - 'a']++;
+        }
 
-        for (char ch : s)
-            sum -= ch;
+        for (char ch : t) {
+            freq[ch - 'a']--;
 
-        return (char)sum;
+            if (freq[ch - 'a'] < 0) {
+                return ch;
+            }
+        }
+
+        return ' ';
     }
 };
