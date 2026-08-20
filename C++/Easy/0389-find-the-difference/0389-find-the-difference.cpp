@@ -1,15 +1,19 @@
 class Solution {
 public:
     char findTheDifference(string s, string t) {
-        sort(s.begin(),s.end());
-        sort(t.begin(),t.end());
-        for(int i=0;i<s.length();i++)
-        {
-            if(s[i]!=t[i])
-            {
-                return t[i];
+        unordered_map<char, int> freq1;
+        for (char ch : s) {
+            freq1[ch]++;
+        }
+        unordered_map<char, int> freq2;
+        for (char ch : t) {
+            freq2[ch]++;
+        }
+        for (auto x : freq2) {
+            if (x.second != freq1[x.first]) {
+                return x.first;
             }
         }
-        return t[t.length() - 1];
+        return ' ';
     }
 };
