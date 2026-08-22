@@ -117,6 +117,7 @@ Leet Code Solutions
 | [1266-minimum-time-visiting-all-points](https://github.com/surya0352/leet-code/tree/main/C++/Easy/1266-minimum-time-visiting-all-points/) | Easy |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/surya0352/leet-code/tree/main/C++/Easy/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
 | [3536-maximum-product-of-two-digits](https://github.com/surya0352/leet-code/tree/main/C++/Easy/3536-maximum-product-of-two-digits/) | Easy |
+| [3622-check-divisibility-by-digit-sum-and-product](https://github.com/surya0352/leet-code/tree/main/C++/Easy/3622-check-divisibility-by-digit-sum-and-product/) | Easy |
 | [3697-compute-decimal-representation](https://github.com/surya0352/leet-code/tree/main/C++/Easy/3697-compute-decimal-representation/) | Easy |
 | [3895-count-digit-appearances](https://github.com/surya0352/leet-code/tree/main/C++/Medium/3895-count-digit-appearances/) | Medium |
 ## Greedy
