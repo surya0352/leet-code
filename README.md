@@ -23,6 +23,7 @@ Leet Code Solutions
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0011-container-with-most-water](https://github.com/surya0352/leet-code/tree/main/C++/Medium/0011-container-with-most-water/) | Medium |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/surya0352/leet-code/tree/main/C++/Medium/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
 | [0088-merge-sorted-array](https://github.com/surya0352/leet-code/tree/main/C++/Easy/0088-merge-sorted-array/) | Easy |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/surya0352/leet-code/tree/main/C++/Easy/0121-best-time-to-buy-and-sell-stock/) | Easy |
@@ -83,6 +84,7 @@ Leet Code Solutions
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0011-container-with-most-water](https://github.com/surya0352/leet-code/tree/main/C++/Medium/0011-container-with-most-water/) | Medium |
 | [0088-merge-sorted-array](https://github.com/surya0352/leet-code/tree/main/C++/Easy/0088-merge-sorted-array/) | Easy |
 | [0151-reverse-words-in-a-string](https://github.com/surya0352/leet-code/tree/main/C++/Medium/0151-reverse-words-in-a-string/) | Medium |
 | [0283-move-zeroes](https://github.com/surya0352/leet-code/tree/main/C++/Easy/0283-move-zeroes/) | Easy |
@@ -125,6 +127,7 @@ Leet Code Solutions
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0011-container-with-most-water](https://github.com/surya0352/leet-code/tree/main/C++/Medium/0011-container-with-most-water/) | Medium |
 | [0409-longest-palindrome](https://github.com/surya0352/leet-code/tree/main/C++/Easy/0409-longest-palindrome/) | Easy |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/surya0352/leet-code/tree/main/C++/Easy/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
 ## Heap (Priority Queue)
