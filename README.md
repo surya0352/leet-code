@@ -43,6 +43,7 @@ Leet Code Solutions
 | [2089-find-target-indices-after-sorting-array](https://github.com/surya0352/leet-code/tree/main/C++/Easy/2089-find-target-indices-after-sorting-array/) | Easy |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/surya0352/leet-code/tree/main/C++/Easy/2824-count-pairs-whose-sum-is-less-than-target/) | Easy |
 | [3697-compute-decimal-representation](https://github.com/surya0352/leet-code/tree/main/C++/Easy/3697-compute-decimal-representation/) | Easy |
+| [3718-smallest-missing-multiple-of-k](https://github.com/surya0352/leet-code/tree/main/C++/Easy/3718-smallest-missing-multiple-of-k/) | Easy |
 | [3731-find-missing-elements](https://github.com/surya0352/leet-code/tree/main/C++/Easy/3731-find-missing-elements/) | Easy |
 | [3895-count-digit-appearances](https://github.com/surya0352/leet-code/tree/main/C++/Medium/3895-count-digit-appearances/) | Medium |
 ## Bit Manipulation
@@ -60,6 +61,7 @@ Leet Code Solutions
 | [0409-longest-palindrome](https://github.com/surya0352/leet-code/tree/main/C++/Easy/0409-longest-palindrome/) | Easy |
 | [1207-unique-number-of-occurrences](https://github.com/surya0352/leet-code/tree/main/C++/Easy/1207-unique-number-of-occurrences/) | Easy |
 | [1394-find-lucky-integer-in-an-array](https://github.com/surya0352/leet-code/tree/main/C++/Easy/1394-find-lucky-integer-in-an-array/) | Easy |
+| [3718-smallest-missing-multiple-of-k](https://github.com/surya0352/leet-code/tree/main/C++/Easy/3718-smallest-missing-multiple-of-k/) | Easy |
 | [3731-find-missing-elements](https://github.com/surya0352/leet-code/tree/main/C++/Easy/3731-find-missing-elements/) | Easy |
 ## Counting
 | Problem Name | Difficulty |
