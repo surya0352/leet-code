@@ -100,6 +100,7 @@ Leet Code Solutions
 | [0151-reverse-words-in-a-string](https://github.com/surya0352/leet-code/tree/main/C++/Medium/0151-reverse-words-in-a-string/) | Medium |
 | [0389-find-the-difference](https://github.com/surya0352/leet-code/tree/main/C++/Easy/0389-find-the-difference/) | Easy |
 | [0409-longest-palindrome](https://github.com/surya0352/leet-code/tree/main/C++/Easy/0409-longest-palindrome/) | Easy |
+| [0796-rotate-string](https://github.com/surya0352/leet-code/tree/main/C++/Easy/0796-rotate-string/) | Easy |
 | [1108-defanging-an-ip-address](https://github.com/surya0352/leet-code/tree/main/C++/Easy/1108-defanging-an-ip-address/) | Easy |
 | [1768-merge-strings-alternately](https://github.com/surya0352/leet-code/tree/main/C++/Easy/1768-merge-strings-alternately/) | Easy |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/surya0352/leet-code/tree/main/C++/Easy/2011-final-value-of-variable-after-performing-operations/) | Easy |
@@ -190,4 +191,8 @@ Leet Code Solutions
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0204-count-primes](https://github.com/surya0352/leet-code/tree/main/C++/Medium/0204-count-primes/) | Medium |
+## String Matching
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0796-rotate-string](https://github.com/surya0352/leet-code/tree/main/C++/Easy/0796-rotate-string/) | Easy |
 <!---LeetCode Topics End-->
