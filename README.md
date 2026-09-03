@@ -52,6 +52,7 @@ Leet Code Solutions
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0136-single-number](https://github.com/surya0352/leet-code/tree/main/C++/Easy/0136-single-number/) | Easy |
+| [0191-number-of-1-bits](https://github.com/surya0352/leet-code/tree/main/C++/Easy/0191-number-of-1-bits/) | Easy |
 | [0287-find-the-duplicate-number](https://github.com/surya0352/leet-code/tree/main/C++/Medium/0287-find-the-duplicate-number/) | Medium |
 | [0338-counting-bits](https://github.com/surya0352/leet-code/tree/main/C++/Easy/0338-counting-bits/) | Easy |
 | [0389-find-the-difference](https://github.com/surya0352/leet-code/tree/main/C++/Easy/0389-find-the-difference/) | Easy |
@@ -195,4 +196,8 @@ Leet Code Solutions
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0796-rotate-string](https://github.com/surya0352/leet-code/tree/main/C++/Easy/0796-rotate-string/) | Easy |
+## Divide and Conquer
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0191-number-of-1-bits](https://github.com/surya0352/leet-code/tree/main/C++/Easy/0191-number-of-1-bits/) | Easy |
 <!---LeetCode Topics End-->
