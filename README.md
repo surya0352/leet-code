@@ -37,6 +37,7 @@ Leet Code Solutions
 | [0628-maximum-product-of-three-numbers](https://github.com/surya0352/leet-code/tree/main/C++/Easy/0628-maximum-product-of-three-numbers/) | Easy |
 | [1089-duplicate-zeros](https://github.com/surya0352/leet-code/tree/main/C++/Easy/1089-duplicate-zeros/) | Easy |
 | [1207-unique-number-of-occurrences](https://github.com/surya0352/leet-code/tree/main/C++/Easy/1207-unique-number-of-occurrences/) | Easy |
+| [1232-check-if-it-is-a-straight-line](https://github.com/surya0352/leet-code/tree/main/C++/Easy/1232-check-if-it-is-a-straight-line/) | Easy |
 | [1266-minimum-time-visiting-all-points](https://github.com/surya0352/leet-code/tree/main/C++/Easy/1266-minimum-time-visiting-all-points/) | Easy |
 | [1394-find-lucky-integer-in-an-array](https://github.com/surya0352/leet-code/tree/main/C++/Easy/1394-find-lucky-integer-in-an-array/) | Easy |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/surya0352/leet-code/tree/main/C++/Easy/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
@@ -123,6 +124,7 @@ Leet Code Solutions
 | [0367-valid-perfect-square](https://github.com/surya0352/leet-code/tree/main/C++/Easy/0367-valid-perfect-square/) | Easy |
 | [0509-fibonacci-number](https://github.com/surya0352/leet-code/tree/main/C++/Easy/0509-fibonacci-number/) | Easy |
 | [0628-maximum-product-of-three-numbers](https://github.com/surya0352/leet-code/tree/main/C++/Easy/0628-maximum-product-of-three-numbers/) | Easy |
+| [1232-check-if-it-is-a-straight-line](https://github.com/surya0352/leet-code/tree/main/C++/Easy/1232-check-if-it-is-a-straight-line/) | Easy |
 | [1266-minimum-time-visiting-all-points](https://github.com/surya0352/leet-code/tree/main/C++/Easy/1266-minimum-time-visiting-all-points/) | Easy |
 | [2235-add-two-integers](https://github.com/surya0352/leet-code/tree/main/C++/Easy/2235-add-two-integers/) | Easy |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/surya0352/leet-code/tree/main/C++/Easy/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
@@ -165,6 +167,7 @@ Leet Code Solutions
 ## Geometry
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1232-check-if-it-is-a-straight-line](https://github.com/surya0352/leet-code/tree/main/C++/Easy/1232-check-if-it-is-a-straight-line/) | Easy |
 | [1266-minimum-time-visiting-all-points](https://github.com/surya0352/leet-code/tree/main/C++/Easy/1266-minimum-time-visiting-all-points/) | Easy |
 ## Prefix Sum
 | Problem Name | Difficulty |
