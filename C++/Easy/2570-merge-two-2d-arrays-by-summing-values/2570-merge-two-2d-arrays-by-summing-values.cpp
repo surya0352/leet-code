@@ -9,10 +9,7 @@ public:
 
         while (i < n && j < m) {
             if (nums1[i][0] == nums2[j][0]) {
-                vector<int> temp(2);
-                temp[0] = nums1[i][0];
-                temp[1] = nums1[i][1] + nums2[j][1];
-                output.push_back(temp);
+                output.push_back({nums1[i][0], nums1[i][1] + nums2[j][1]});
                 i++;
                 j++;
             } else if (nums1[i][0] < nums2[j][0]) {
