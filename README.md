@@ -45,6 +45,7 @@ Leet Code Solutions
 | [1920-build-array-from-permutation](https://github.com/surya0352/leet-code/tree/main/C++/Easy/1920-build-array-from-permutation/) | Easy |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/surya0352/leet-code/tree/main/C++/Easy/2011-final-value-of-variable-after-performing-operations/) | Easy |
 | [2089-find-target-indices-after-sorting-array](https://github.com/surya0352/leet-code/tree/main/C++/Easy/2089-find-target-indices-after-sorting-array/) | Easy |
+| [2570-merge-two-2d-arrays-by-summing-values](https://github.com/surya0352/leet-code/tree/main/C++/Easy/2570-merge-two-2d-arrays-by-summing-values/) | Easy |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/surya0352/leet-code/tree/main/C++/Easy/2824-count-pairs-whose-sum-is-less-than-target/) | Easy |
 | [3697-compute-decimal-representation](https://github.com/surya0352/leet-code/tree/main/C++/Easy/3697-compute-decimal-representation/) | Easy |
 | [3718-smallest-missing-multiple-of-k](https://github.com/surya0352/leet-code/tree/main/C++/Easy/3718-smallest-missing-multiple-of-k/) | Easy |
@@ -68,6 +69,7 @@ Leet Code Solutions
 | [1207-unique-number-of-occurrences](https://github.com/surya0352/leet-code/tree/main/C++/Easy/1207-unique-number-of-occurrences/) | Easy |
 | [1346-check-if-n-and-its-double-exist](https://github.com/surya0352/leet-code/tree/main/C++/Easy/1346-check-if-n-and-its-double-exist/) | Easy |
 | [1394-find-lucky-integer-in-an-array](https://github.com/surya0352/leet-code/tree/main/C++/Easy/1394-find-lucky-integer-in-an-array/) | Easy |
+| [2570-merge-two-2d-arrays-by-summing-values](https://github.com/surya0352/leet-code/tree/main/C++/Easy/2570-merge-two-2d-arrays-by-summing-values/) | Easy |
 | [3718-smallest-missing-multiple-of-k](https://github.com/surya0352/leet-code/tree/main/C++/Easy/3718-smallest-missing-multiple-of-k/) | Easy |
 | [3731-find-missing-elements](https://github.com/surya0352/leet-code/tree/main/C++/Easy/3731-find-missing-elements/) | Easy |
 ## Counting
@@ -99,6 +101,7 @@ Leet Code Solutions
 | [1089-duplicate-zeros](https://github.com/surya0352/leet-code/tree/main/C++/Easy/1089-duplicate-zeros/) | Easy |
 | [1346-check-if-n-and-its-double-exist](https://github.com/surya0352/leet-code/tree/main/C++/Easy/1346-check-if-n-and-its-double-exist/) | Easy |
 | [1768-merge-strings-alternately](https://github.com/surya0352/leet-code/tree/main/C++/Easy/1768-merge-strings-alternately/) | Easy |
+| [2570-merge-two-2d-arrays-by-summing-values](https://github.com/surya0352/leet-code/tree/main/C++/Easy/2570-merge-two-2d-arrays-by-summing-values/) | Easy |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/surya0352/leet-code/tree/main/C++/Easy/2824-count-pairs-whose-sum-is-less-than-target/) | Easy |
 ## String
 | Problem Name | Difficulty |
