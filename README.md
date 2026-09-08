@@ -136,6 +136,7 @@ Leet Code Solutions
 | [3536-maximum-product-of-two-digits](https://github.com/surya0352/leet-code/tree/main/C++/Easy/3536-maximum-product-of-two-digits/) | Easy |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/surya0352/leet-code/tree/main/C++/Easy/3622-check-divisibility-by-digit-sum-and-product/) | Easy |
 | [3697-compute-decimal-representation](https://github.com/surya0352/leet-code/tree/main/C++/Easy/3697-compute-decimal-representation/) | Easy |
+| [3870-count-commas-in-range](https://github.com/surya0352/leet-code/tree/main/C++/Easy/3870-count-commas-in-range/) | Easy |
 | [3875-construct-uniform-parity-array-i](https://github.com/surya0352/leet-code/tree/main/C++/Easy/3875-construct-uniform-parity-array-i/) | Easy |
 | [3895-count-digit-appearances](https://github.com/surya0352/leet-code/tree/main/C++/Medium/3895-count-digit-appearances/) | Medium |
 ## Greedy
