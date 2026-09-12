@@ -25,6 +25,7 @@ Leet Code Solutions
 | ------- | ------- |
 | [0011-container-with-most-water](https://github.com/surya0352/leet-code/tree/main/C++/Medium/0011-container-with-most-water/) | Medium |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/surya0352/leet-code/tree/main/C++/Medium/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
+| [0078-subsets](https://github.com/surya0352/leet-code/tree/main/C++/Medium/0078-subsets/) | Medium |
 | [0088-merge-sorted-array](https://github.com/surya0352/leet-code/tree/main/C++/Easy/0088-merge-sorted-array/) | Easy |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/surya0352/leet-code/tree/main/C++/Easy/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0136-single-number](https://github.com/surya0352/leet-code/tree/main/C++/Easy/0136-single-number/) | Easy |
@@ -57,6 +58,7 @@ Leet Code Solutions
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0078-subsets](https://github.com/surya0352/leet-code/tree/main/C++/Medium/0078-subsets/) | Medium |
 | [0136-single-number](https://github.com/surya0352/leet-code/tree/main/C++/Easy/0136-single-number/) | Easy |
 | [0191-number-of-1-bits](https://github.com/surya0352/leet-code/tree/main/C++/Easy/0191-number-of-1-bits/) | Easy |
 | [0287-find-the-duplicate-number](https://github.com/surya0352/leet-code/tree/main/C++/Medium/0287-find-the-duplicate-number/) | Medium |
@@ -241,4 +243,8 @@ Leet Code Solutions
 | [0094-binary-tree-inorder-traversal](https://github.com/surya0352/leet-code/tree/main/C++/Easy/0094-binary-tree-inorder-traversal/) | Easy |
 | [0144-binary-tree-preorder-traversal](https://github.com/surya0352/leet-code/tree/main/C++/Easy/0144-binary-tree-preorder-traversal/) | Easy |
 | [0145-binary-tree-postorder-traversal](https://github.com/surya0352/leet-code/tree/main/C++/Easy/0145-binary-tree-postorder-traversal/) | Easy |
+## Backtracking
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0078-subsets](https://github.com/surya0352/leet-code/tree/main/C++/Medium/0078-subsets/) | Medium |
 <!---LeetCode Topics End-->
