@@ -42,6 +42,7 @@ Leet Code Solutions
 | [1346-check-if-n-and-its-double-exist](https://github.com/surya0352/leet-code/tree/main/C++/Easy/1346-check-if-n-and-its-double-exist/) | Easy |
 | [1394-find-lucky-integer-in-an-array](https://github.com/surya0352/leet-code/tree/main/C++/Easy/1394-find-lucky-integer-in-an-array/) | Easy |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/surya0352/leet-code/tree/main/C++/Easy/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
+| [1662-check-if-two-string-arrays-are-equivalent](https://github.com/surya0352/leet-code/tree/main/C++/Easy/1662-check-if-two-string-arrays-are-equivalent/) | Easy |
 | [1920-build-array-from-permutation](https://github.com/surya0352/leet-code/tree/main/C++/Easy/1920-build-array-from-permutation/) | Easy |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/surya0352/leet-code/tree/main/C++/Easy/2011-final-value-of-variable-after-performing-operations/) | Easy |
 | [2089-find-target-indices-after-sorting-array](https://github.com/surya0352/leet-code/tree/main/C++/Easy/2089-find-target-indices-after-sorting-array/) | Easy |
@@ -115,6 +116,7 @@ Leet Code Solutions
 | [0409-longest-palindrome](https://github.com/surya0352/leet-code/tree/main/C++/Easy/0409-longest-palindrome/) | Easy |
 | [0796-rotate-string](https://github.com/surya0352/leet-code/tree/main/C++/Easy/0796-rotate-string/) | Easy |
 | [1108-defanging-an-ip-address](https://github.com/surya0352/leet-code/tree/main/C++/Easy/1108-defanging-an-ip-address/) | Easy |
+| [1662-check-if-two-string-arrays-are-equivalent](https://github.com/surya0352/leet-code/tree/main/C++/Easy/1662-check-if-two-string-arrays-are-equivalent/) | Easy |
 | [1768-merge-strings-alternately](https://github.com/surya0352/leet-code/tree/main/C++/Easy/1768-merge-strings-alternately/) | Easy |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/surya0352/leet-code/tree/main/C++/Easy/2011-final-value-of-variable-after-performing-operations/) | Easy |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/surya0352/leet-code/tree/main/C++/Easy/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
