@@ -229,22 +229,29 @@ Leet Code Solutions
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/surya0352/leet-code/tree/main/C++/Easy/0094-binary-tree-inorder-traversal/) | Easy |
+| [0104-maximum-depth-of-binary-tree](https://github.com/surya0352/leet-code/tree/main/C++/Easy/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0144-binary-tree-preorder-traversal](https://github.com/surya0352/leet-code/tree/main/C++/Easy/0144-binary-tree-preorder-traversal/) | Easy |
 | [0145-binary-tree-postorder-traversal](https://github.com/surya0352/leet-code/tree/main/C++/Easy/0145-binary-tree-postorder-traversal/) | Easy |
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/surya0352/leet-code/tree/main/C++/Easy/0094-binary-tree-inorder-traversal/) | Easy |
+| [0104-maximum-depth-of-binary-tree](https://github.com/surya0352/leet-code/tree/main/C++/Easy/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0144-binary-tree-preorder-traversal](https://github.com/surya0352/leet-code/tree/main/C++/Easy/0144-binary-tree-preorder-traversal/) | Easy |
 | [0145-binary-tree-postorder-traversal](https://github.com/surya0352/leet-code/tree/main/C++/Easy/0145-binary-tree-postorder-traversal/) | Easy |
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/surya0352/leet-code/tree/main/C++/Easy/0094-binary-tree-inorder-traversal/) | Easy |
+| [0104-maximum-depth-of-binary-tree](https://github.com/surya0352/leet-code/tree/main/C++/Easy/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0144-binary-tree-preorder-traversal](https://github.com/surya0352/leet-code/tree/main/C++/Easy/0144-binary-tree-preorder-traversal/) | Easy |
 | [0145-binary-tree-postorder-traversal](https://github.com/surya0352/leet-code/tree/main/C++/Easy/0145-binary-tree-postorder-traversal/) | Easy |
 ## Backtracking
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0078-subsets](https://github.com/surya0352/leet-code/tree/main/C++/Medium/0078-subsets/) | Medium |
+## Breadth-First Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/surya0352/leet-code/tree/main/C++/Easy/0104-maximum-depth-of-binary-tree/) | Easy |
 <!---LeetCode Topics End-->
