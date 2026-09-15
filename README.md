@@ -44,6 +44,7 @@ Leet Code Solutions
 | [1394-find-lucky-integer-in-an-array](https://github.com/surya0352/leet-code/tree/main/C++/Easy/1394-find-lucky-integer-in-an-array/) | Easy |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/surya0352/leet-code/tree/main/C++/Easy/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/surya0352/leet-code/tree/main/C++/Easy/1662-check-if-two-string-arrays-are-equivalent/) | Easy |
+| [1748-sum-of-unique-elements](https://github.com/surya0352/leet-code/tree/main/C++/Easy/1748-sum-of-unique-elements/) | Easy |
 | [1920-build-array-from-permutation](https://github.com/surya0352/leet-code/tree/main/C++/Easy/1920-build-array-from-permutation/) | Easy |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/surya0352/leet-code/tree/main/C++/Easy/2011-final-value-of-variable-after-performing-operations/) | Easy |
 | [2089-find-target-indices-after-sorting-array](https://github.com/surya0352/leet-code/tree/main/C++/Easy/2089-find-target-indices-after-sorting-array/) | Easy |
@@ -73,6 +74,7 @@ Leet Code Solutions
 | [1207-unique-number-of-occurrences](https://github.com/surya0352/leet-code/tree/main/C++/Easy/1207-unique-number-of-occurrences/) | Easy |
 | [1346-check-if-n-and-its-double-exist](https://github.com/surya0352/leet-code/tree/main/C++/Easy/1346-check-if-n-and-its-double-exist/) | Easy |
 | [1394-find-lucky-integer-in-an-array](https://github.com/surya0352/leet-code/tree/main/C++/Easy/1394-find-lucky-integer-in-an-array/) | Easy |
+| [1748-sum-of-unique-elements](https://github.com/surya0352/leet-code/tree/main/C++/Easy/1748-sum-of-unique-elements/) | Easy |
 | [2570-merge-two-2d-arrays-by-summing-values](https://github.com/surya0352/leet-code/tree/main/C++/Easy/2570-merge-two-2d-arrays-by-summing-values/) | Easy |
 | [3718-smallest-missing-multiple-of-k](https://github.com/surya0352/leet-code/tree/main/C++/Easy/3718-smallest-missing-multiple-of-k/) | Easy |
 | [3731-find-missing-elements](https://github.com/surya0352/leet-code/tree/main/C++/Easy/3731-find-missing-elements/) | Easy |
@@ -80,6 +82,7 @@ Leet Code Solutions
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1394-find-lucky-integer-in-an-array](https://github.com/surya0352/leet-code/tree/main/C++/Easy/1394-find-lucky-integer-in-an-array/) | Easy |
+| [1748-sum-of-unique-elements](https://github.com/surya0352/leet-code/tree/main/C++/Easy/1748-sum-of-unique-elements/) | Easy |
 | [2148-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/surya0352/leet-code/tree/main/C++/Easy/2148-count-elements-with-strictly-smaller-and-greater-elements/) | Easy |
 ## Sorting
 | Problem Name | Difficulty |
