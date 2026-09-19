@@ -31,6 +31,7 @@ Leet Code Solutions
 | [0136-single-number](https://github.com/surya0352/leet-code/tree/main/C++/Easy/0136-single-number/) | Easy |
 | [0204-count-primes](https://github.com/surya0352/leet-code/tree/main/C++/Medium/0204-count-primes/) | Medium |
 | [0217-contains-duplicate](https://github.com/surya0352/leet-code/tree/main/C++/Easy/0217-contains-duplicate/) | Easy |
+| [0219-contains-duplicate-ii](https://github.com/surya0352/leet-code/tree/main/C++/Easy/0219-contains-duplicate-ii/) | Easy |
 | [0238-product-of-array-except-self](https://github.com/surya0352/leet-code/tree/main/C++/Medium/0238-product-of-array-except-self/) | Medium |
 | [0283-move-zeroes](https://github.com/surya0352/leet-code/tree/main/C++/Easy/0283-move-zeroes/) | Easy |
 | [0287-find-the-duplicate-number](https://github.com/surya0352/leet-code/tree/main/C++/Medium/0287-find-the-duplicate-number/) | Medium |
@@ -69,6 +70,7 @@ Leet Code Solutions
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0217-contains-duplicate](https://github.com/surya0352/leet-code/tree/main/C++/Easy/0217-contains-duplicate/) | Easy |
+| [0219-contains-duplicate-ii](https://github.com/surya0352/leet-code/tree/main/C++/Easy/0219-contains-duplicate-ii/) | Easy |
 | [0389-find-the-difference](https://github.com/surya0352/leet-code/tree/main/C++/Easy/0389-find-the-difference/) | Easy |
 | [0409-longest-palindrome](https://github.com/surya0352/leet-code/tree/main/C++/Easy/0409-longest-palindrome/) | Easy |
 | [1207-unique-number-of-occurrences](https://github.com/surya0352/leet-code/tree/main/C++/Easy/1207-unique-number-of-occurrences/) | Easy |
@@ -263,4 +265,8 @@ Leet Code Solutions
 | ------- | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/surya0352/leet-code/tree/main/C++/Easy/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0111-minimum-depth-of-binary-tree](https://github.com/surya0352/leet-code/tree/main/C++/Easy/0111-minimum-depth-of-binary-tree/) | Easy |
+## Sliding Window
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0219-contains-duplicate-ii](https://github.com/surya0352/leet-code/tree/main/C++/Easy/0219-contains-duplicate-ii/) | Easy |
 <!---LeetCode Topics End-->
