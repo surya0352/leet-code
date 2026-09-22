@@ -241,6 +241,7 @@ Leet Code Solutions
 | [0111-minimum-depth-of-binary-tree](https://github.com/surya0352/leet-code/tree/main/C++/Easy/0111-minimum-depth-of-binary-tree/) | Easy |
 | [0144-binary-tree-preorder-traversal](https://github.com/surya0352/leet-code/tree/main/C++/Easy/0144-binary-tree-preorder-traversal/) | Easy |
 | [0145-binary-tree-postorder-traversal](https://github.com/surya0352/leet-code/tree/main/C++/Easy/0145-binary-tree-postorder-traversal/) | Easy |
+| [0958-check-completeness-of-a-binary-tree](https://github.com/surya0352/leet-code/tree/main/C++/Medium/0958-check-completeness-of-a-binary-tree/) | Medium |
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -258,6 +259,7 @@ Leet Code Solutions
 | [0111-minimum-depth-of-binary-tree](https://github.com/surya0352/leet-code/tree/main/C++/Easy/0111-minimum-depth-of-binary-tree/) | Easy |
 | [0144-binary-tree-preorder-traversal](https://github.com/surya0352/leet-code/tree/main/C++/Easy/0144-binary-tree-preorder-traversal/) | Easy |
 | [0145-binary-tree-postorder-traversal](https://github.com/surya0352/leet-code/tree/main/C++/Easy/0145-binary-tree-postorder-traversal/) | Easy |
+| [0958-check-completeness-of-a-binary-tree](https://github.com/surya0352/leet-code/tree/main/C++/Medium/0958-check-completeness-of-a-binary-tree/) | Medium |
 ## Backtracking
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -268,6 +270,7 @@ Leet Code Solutions
 | [0102-binary-tree-level-order-traversal](https://github.com/surya0352/leet-code/tree/main/C++/Medium/0102-binary-tree-level-order-traversal/) | Medium |
 | [0104-maximum-depth-of-binary-tree](https://github.com/surya0352/leet-code/tree/main/C++/Easy/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0111-minimum-depth-of-binary-tree](https://github.com/surya0352/leet-code/tree/main/C++/Easy/0111-minimum-depth-of-binary-tree/) | Easy |
+| [0958-check-completeness-of-a-binary-tree](https://github.com/surya0352/leet-code/tree/main/C++/Medium/0958-check-completeness-of-a-binary-tree/) | Medium |
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
