@@ -150,6 +150,7 @@ Leet Code Solutions
 | [0836-rectangle-overlap](https://github.com/surya0352/leet-code/tree/main/C++/Easy/0836-rectangle-overlap/) | Easy |
 | [1232-check-if-it-is-a-straight-line](https://github.com/surya0352/leet-code/tree/main/C++/Easy/1232-check-if-it-is-a-straight-line/) | Easy |
 | [1266-minimum-time-visiting-all-points](https://github.com/surya0352/leet-code/tree/main/C++/Easy/1266-minimum-time-visiting-all-points/) | Easy |
+| [1952-three-divisors](https://github.com/surya0352/leet-code/tree/main/C++/Easy/1952-three-divisors/) | Easy |
 | [2235-add-two-integers](https://github.com/surya0352/leet-code/tree/main/C++/Easy/2235-add-two-integers/) | Easy |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/surya0352/leet-code/tree/main/C++/Easy/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
 | [3536-maximum-product-of-two-digits](https://github.com/surya0352/leet-code/tree/main/C++/Easy/3536-maximum-product-of-two-digits/) | Easy |
@@ -180,6 +181,7 @@ Leet Code Solutions
 | ------- | ------- |
 | [0204-count-primes](https://github.com/surya0352/leet-code/tree/main/C++/Medium/0204-count-primes/) | Medium |
 | [0258-add-digits](https://github.com/surya0352/leet-code/tree/main/C++/Easy/0258-add-digits/) | Easy |
+| [1952-three-divisors](https://github.com/surya0352/leet-code/tree/main/C++/Easy/1952-three-divisors/) | Easy |
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -215,6 +217,7 @@ Leet Code Solutions
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0204-count-primes](https://github.com/surya0352/leet-code/tree/main/C++/Medium/0204-count-primes/) | Medium |
+| [1952-three-divisors](https://github.com/surya0352/leet-code/tree/main/C++/Easy/1952-three-divisors/) | Easy |
 ## Primality Test
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -223,6 +226,7 @@ Leet Code Solutions
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0204-count-primes](https://github.com/surya0352/leet-code/tree/main/C++/Medium/0204-count-primes/) | Medium |
+| [1952-three-divisors](https://github.com/surya0352/leet-code/tree/main/C++/Easy/1952-three-divisors/) | Easy |
 ## Prime Number Sieve
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -278,4 +282,8 @@ Leet Code Solutions
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0219-contains-duplicate-ii](https://github.com/surya0352/leet-code/tree/main/C++/Easy/0219-contains-duplicate-ii/) | Easy |
+## Prime Factorization
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1952-three-divisors](https://github.com/surya0352/leet-code/tree/main/C++/Easy/1952-three-divisors/) | Easy |
 <!---LeetCode Topics End-->
