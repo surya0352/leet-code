@@ -153,6 +153,7 @@ Leet Code Solutions
 | [1266-minimum-time-visiting-all-points](https://github.com/surya0352/leet-code/tree/main/C++/Easy/1266-minimum-time-visiting-all-points/) | Easy |
 | [1952-three-divisors](https://github.com/surya0352/leet-code/tree/main/C++/Easy/1952-three-divisors/) | Easy |
 | [2235-add-two-integers](https://github.com/surya0352/leet-code/tree/main/C++/Easy/2235-add-two-integers/) | Easy |
+| [2481-minimum-cuts-to-divide-a-circle](https://github.com/surya0352/leet-code/tree/main/C++/Easy/2481-minimum-cuts-to-divide-a-circle/) | Easy |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/surya0352/leet-code/tree/main/C++/Easy/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
 | [3536-maximum-product-of-two-digits](https://github.com/surya0352/leet-code/tree/main/C++/Easy/3536-maximum-product-of-two-digits/) | Easy |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/surya0352/leet-code/tree/main/C++/Easy/3550-smallest-index-with-digit-sum-equal-to-index/) | Easy |
@@ -203,6 +204,7 @@ Leet Code Solutions
 | [0836-rectangle-overlap](https://github.com/surya0352/leet-code/tree/main/C++/Easy/0836-rectangle-overlap/) | Easy |
 | [1232-check-if-it-is-a-straight-line](https://github.com/surya0352/leet-code/tree/main/C++/Easy/1232-check-if-it-is-a-straight-line/) | Easy |
 | [1266-minimum-time-visiting-all-points](https://github.com/surya0352/leet-code/tree/main/C++/Easy/1266-minimum-time-visiting-all-points/) | Easy |
+| [2481-minimum-cuts-to-divide-a-circle](https://github.com/surya0352/leet-code/tree/main/C++/Easy/2481-minimum-cuts-to-divide-a-circle/) | Easy |
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
