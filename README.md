@@ -132,6 +132,7 @@ Leet Code Solutions
 | [1768-merge-strings-alternately](https://github.com/surya0352/leet-code/tree/main/C++/Easy/1768-merge-strings-alternately/) | Easy |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/surya0352/leet-code/tree/main/C++/Easy/2011-final-value-of-variable-after-performing-operations/) | Easy |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/surya0352/leet-code/tree/main/C++/Easy/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
+| [3340-check-balanced-string](https://github.com/surya0352/leet-code/tree/main/C++/Easy/3340-check-balanced-string/) | Easy |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
