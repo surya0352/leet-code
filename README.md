@@ -122,6 +122,7 @@ Leet Code Solutions
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0008-string-to-integer-atoi](https://github.com/surya0352/leet-code/tree/main/C++/Medium/0008-string-to-integer-atoi/) | Medium |
 | [0020-valid-parentheses](https://github.com/surya0352/leet-code/tree/main/C++/Easy/0020-valid-parentheses/) | Easy |
 | [0151-reverse-words-in-a-string](https://github.com/surya0352/leet-code/tree/main/C++/Medium/0151-reverse-words-in-a-string/) | Medium |
 | [0389-find-the-difference](https://github.com/surya0352/leet-code/tree/main/C++/Easy/0389-find-the-difference/) | Easy |
