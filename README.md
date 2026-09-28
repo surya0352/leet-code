@@ -256,6 +256,7 @@ Leet Code Solutions
 | [0111-minimum-depth-of-binary-tree](https://github.com/surya0352/leet-code/tree/main/C++/Easy/0111-minimum-depth-of-binary-tree/) | Easy |
 | [0144-binary-tree-preorder-traversal](https://github.com/surya0352/leet-code/tree/main/C++/Easy/0144-binary-tree-preorder-traversal/) | Easy |
 | [0145-binary-tree-postorder-traversal](https://github.com/surya0352/leet-code/tree/main/C++/Easy/0145-binary-tree-postorder-traversal/) | Easy |
+| [0701-insert-into-a-binary-search-tree](https://github.com/surya0352/leet-code/tree/main/C++/Medium/0701-insert-into-a-binary-search-tree/) | Medium |
 | [0958-check-completeness-of-a-binary-tree](https://github.com/surya0352/leet-code/tree/main/C++/Medium/0958-check-completeness-of-a-binary-tree/) | Medium |
 ## Depth-First Search
 | Problem Name | Difficulty |
@@ -274,6 +275,7 @@ Leet Code Solutions
 | [0111-minimum-depth-of-binary-tree](https://github.com/surya0352/leet-code/tree/main/C++/Easy/0111-minimum-depth-of-binary-tree/) | Easy |
 | [0144-binary-tree-preorder-traversal](https://github.com/surya0352/leet-code/tree/main/C++/Easy/0144-binary-tree-preorder-traversal/) | Easy |
 | [0145-binary-tree-postorder-traversal](https://github.com/surya0352/leet-code/tree/main/C++/Easy/0145-binary-tree-postorder-traversal/) | Easy |
+| [0701-insert-into-a-binary-search-tree](https://github.com/surya0352/leet-code/tree/main/C++/Medium/0701-insert-into-a-binary-search-tree/) | Medium |
 | [0958-check-completeness-of-a-binary-tree](https://github.com/surya0352/leet-code/tree/main/C++/Medium/0958-check-completeness-of-a-binary-tree/) | Medium |
 ## Backtracking
 | Problem Name | Difficulty |
@@ -298,4 +300,8 @@ Leet Code Solutions
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2396-strictly-palindromic-number](https://github.com/surya0352/leet-code/tree/main/C++/Medium/2396-strictly-palindromic-number/) | Medium |
+## Binary Search Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0701-insert-into-a-binary-search-tree](https://github.com/surya0352/leet-code/tree/main/C++/Medium/0701-insert-into-a-binary-search-tree/) | Medium |
 <!---LeetCode Topics End-->
