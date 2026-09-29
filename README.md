@@ -256,6 +256,7 @@ Leet Code Solutions
 | [0111-minimum-depth-of-binary-tree](https://github.com/surya0352/leet-code/tree/main/C++/Easy/0111-minimum-depth-of-binary-tree/) | Easy |
 | [0144-binary-tree-preorder-traversal](https://github.com/surya0352/leet-code/tree/main/C++/Easy/0144-binary-tree-preorder-traversal/) | Easy |
 | [0145-binary-tree-postorder-traversal](https://github.com/surya0352/leet-code/tree/main/C++/Easy/0145-binary-tree-postorder-traversal/) | Easy |
+| [0450-delete-node-in-a-bst](https://github.com/surya0352/leet-code/tree/main/C++/Medium/0450-delete-node-in-a-bst/) | Medium |
 | [0700-search-in-a-binary-search-tree](https://github.com/surya0352/leet-code/tree/main/C++/Easy/0700-search-in-a-binary-search-tree/) | Easy |
 | [0701-insert-into-a-binary-search-tree](https://github.com/surya0352/leet-code/tree/main/C++/Medium/0701-insert-into-a-binary-search-tree/) | Medium |
 | [0958-check-completeness-of-a-binary-tree](https://github.com/surya0352/leet-code/tree/main/C++/Medium/0958-check-completeness-of-a-binary-tree/) | Medium |
@@ -276,6 +277,7 @@ Leet Code Solutions
 | [0111-minimum-depth-of-binary-tree](https://github.com/surya0352/leet-code/tree/main/C++/Easy/0111-minimum-depth-of-binary-tree/) | Easy |
 | [0144-binary-tree-preorder-traversal](https://github.com/surya0352/leet-code/tree/main/C++/Easy/0144-binary-tree-preorder-traversal/) | Easy |
 | [0145-binary-tree-postorder-traversal](https://github.com/surya0352/leet-code/tree/main/C++/Easy/0145-binary-tree-postorder-traversal/) | Easy |
+| [0450-delete-node-in-a-bst](https://github.com/surya0352/leet-code/tree/main/C++/Medium/0450-delete-node-in-a-bst/) | Medium |
 | [0700-search-in-a-binary-search-tree](https://github.com/surya0352/leet-code/tree/main/C++/Easy/0700-search-in-a-binary-search-tree/) | Easy |
 | [0701-insert-into-a-binary-search-tree](https://github.com/surya0352/leet-code/tree/main/C++/Medium/0701-insert-into-a-binary-search-tree/) | Medium |
 | [0958-check-completeness-of-a-binary-tree](https://github.com/surya0352/leet-code/tree/main/C++/Medium/0958-check-completeness-of-a-binary-tree/) | Medium |
@@ -305,6 +307,7 @@ Leet Code Solutions
 ## Binary Search Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0450-delete-node-in-a-bst](https://github.com/surya0352/leet-code/tree/main/C++/Medium/0450-delete-node-in-a-bst/) | Medium |
 | [0700-search-in-a-binary-search-tree](https://github.com/surya0352/leet-code/tree/main/C++/Easy/0700-search-in-a-binary-search-tree/) | Easy |
 | [0701-insert-into-a-binary-search-tree](https://github.com/surya0352/leet-code/tree/main/C++/Medium/0701-insert-into-a-binary-search-tree/) | Medium |
 <!---LeetCode Topics End-->
