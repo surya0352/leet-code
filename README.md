@@ -146,6 +146,7 @@ Leet Code Solutions
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0070-climbing-stairs](https://github.com/surya0352/leet-code/tree/main/C++/Easy/0070-climbing-stairs/) | Easy |
 | [0204-count-primes](https://github.com/surya0352/leet-code/tree/main/C++/Medium/0204-count-primes/) | Medium |
 | [0258-add-digits](https://github.com/surya0352/leet-code/tree/main/C++/Easy/0258-add-digits/) | Easy |
 | [0367-valid-perfect-square](https://github.com/surya0352/leet-code/tree/main/C++/Easy/0367-valid-perfect-square/) | Easy |
@@ -199,6 +200,7 @@ Leet Code Solutions
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0070-climbing-stairs](https://github.com/surya0352/leet-code/tree/main/C++/Easy/0070-climbing-stairs/) | Easy |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/surya0352/leet-code/tree/main/C++/Easy/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0338-counting-bits](https://github.com/surya0352/leet-code/tree/main/C++/Easy/0338-counting-bits/) | Easy |
 | [0509-fibonacci-number](https://github.com/surya0352/leet-code/tree/main/C++/Easy/0509-fibonacci-number/) | Easy |
@@ -220,6 +222,7 @@ Leet Code Solutions
 ## Memoization
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0070-climbing-stairs](https://github.com/surya0352/leet-code/tree/main/C++/Easy/0070-climbing-stairs/) | Easy |
 | [0509-fibonacci-number](https://github.com/surya0352/leet-code/tree/main/C++/Easy/0509-fibonacci-number/) | Easy |
 ## Enumeration
 | Problem Name | Difficulty |
