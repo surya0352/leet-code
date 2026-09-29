@@ -251,6 +251,7 @@ Leet Code Solutions
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/surya0352/leet-code/tree/main/C++/Easy/0094-binary-tree-inorder-traversal/) | Easy |
+| [0098-validate-binary-search-tree](https://github.com/surya0352/leet-code/tree/main/C++/Medium/0098-validate-binary-search-tree/) | Medium |
 | [0102-binary-tree-level-order-traversal](https://github.com/surya0352/leet-code/tree/main/C++/Medium/0102-binary-tree-level-order-traversal/) | Medium |
 | [0104-maximum-depth-of-binary-tree](https://github.com/surya0352/leet-code/tree/main/C++/Easy/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0111-minimum-depth-of-binary-tree](https://github.com/surya0352/leet-code/tree/main/C++/Easy/0111-minimum-depth-of-binary-tree/) | Easy |
@@ -264,6 +265,7 @@ Leet Code Solutions
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/surya0352/leet-code/tree/main/C++/Easy/0094-binary-tree-inorder-traversal/) | Easy |
+| [0098-validate-binary-search-tree](https://github.com/surya0352/leet-code/tree/main/C++/Medium/0098-validate-binary-search-tree/) | Medium |
 | [0104-maximum-depth-of-binary-tree](https://github.com/surya0352/leet-code/tree/main/C++/Easy/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0111-minimum-depth-of-binary-tree](https://github.com/surya0352/leet-code/tree/main/C++/Easy/0111-minimum-depth-of-binary-tree/) | Easy |
 | [0144-binary-tree-preorder-traversal](https://github.com/surya0352/leet-code/tree/main/C++/Easy/0144-binary-tree-preorder-traversal/) | Easy |
@@ -272,6 +274,7 @@ Leet Code Solutions
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/surya0352/leet-code/tree/main/C++/Easy/0094-binary-tree-inorder-traversal/) | Easy |
+| [0098-validate-binary-search-tree](https://github.com/surya0352/leet-code/tree/main/C++/Medium/0098-validate-binary-search-tree/) | Medium |
 | [0102-binary-tree-level-order-traversal](https://github.com/surya0352/leet-code/tree/main/C++/Medium/0102-binary-tree-level-order-traversal/) | Medium |
 | [0104-maximum-depth-of-binary-tree](https://github.com/surya0352/leet-code/tree/main/C++/Easy/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0111-minimum-depth-of-binary-tree](https://github.com/surya0352/leet-code/tree/main/C++/Easy/0111-minimum-depth-of-binary-tree/) | Easy |
@@ -307,6 +310,7 @@ Leet Code Solutions
 ## Binary Search Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0098-validate-binary-search-tree](https://github.com/surya0352/leet-code/tree/main/C++/Medium/0098-validate-binary-search-tree/) | Medium |
 | [0450-delete-node-in-a-bst](https://github.com/surya0352/leet-code/tree/main/C++/Medium/0450-delete-node-in-a-bst/) | Medium |
 | [0700-search-in-a-binary-search-tree](https://github.com/surya0352/leet-code/tree/main/C++/Easy/0700-search-in-a-binary-search-tree/) | Easy |
 | [0701-insert-into-a-binary-search-tree](https://github.com/surya0352/leet-code/tree/main/C++/Medium/0701-insert-into-a-binary-search-tree/) | Medium |
