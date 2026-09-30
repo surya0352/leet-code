@@ -147,6 +147,7 @@ Leet Code Solutions
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0070-climbing-stairs](https://github.com/surya0352/leet-code/tree/main/C++/Easy/0070-climbing-stairs/) | Easy |
+| [0096-unique-binary-search-trees](https://github.com/surya0352/leet-code/tree/main/C++/Medium/0096-unique-binary-search-trees/) | Medium |
 | [0204-count-primes](https://github.com/surya0352/leet-code/tree/main/C++/Medium/0204-count-primes/) | Medium |
 | [0258-add-digits](https://github.com/surya0352/leet-code/tree/main/C++/Easy/0258-add-digits/) | Easy |
 | [0367-valid-perfect-square](https://github.com/surya0352/leet-code/tree/main/C++/Easy/0367-valid-perfect-square/) | Easy |
@@ -201,6 +202,7 @@ Leet Code Solutions
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0070-climbing-stairs](https://github.com/surya0352/leet-code/tree/main/C++/Easy/0070-climbing-stairs/) | Easy |
+| [0096-unique-binary-search-trees](https://github.com/surya0352/leet-code/tree/main/C++/Medium/0096-unique-binary-search-trees/) | Medium |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/surya0352/leet-code/tree/main/C++/Easy/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0338-counting-bits](https://github.com/surya0352/leet-code/tree/main/C++/Easy/0338-counting-bits/) | Easy |
 | [0509-fibonacci-number](https://github.com/surya0352/leet-code/tree/main/C++/Easy/0509-fibonacci-number/) | Easy |
@@ -254,6 +256,7 @@ Leet Code Solutions
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/surya0352/leet-code/tree/main/C++/Easy/0094-binary-tree-inorder-traversal/) | Easy |
+| [0096-unique-binary-search-trees](https://github.com/surya0352/leet-code/tree/main/C++/Medium/0096-unique-binary-search-trees/) | Medium |
 | [0098-validate-binary-search-tree](https://github.com/surya0352/leet-code/tree/main/C++/Medium/0098-validate-binary-search-tree/) | Medium |
 | [0102-binary-tree-level-order-traversal](https://github.com/surya0352/leet-code/tree/main/C++/Medium/0102-binary-tree-level-order-traversal/) | Medium |
 | [0104-maximum-depth-of-binary-tree](https://github.com/surya0352/leet-code/tree/main/C++/Easy/0104-maximum-depth-of-binary-tree/) | Easy |
@@ -277,6 +280,7 @@ Leet Code Solutions
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/surya0352/leet-code/tree/main/C++/Easy/0094-binary-tree-inorder-traversal/) | Easy |
+| [0096-unique-binary-search-trees](https://github.com/surya0352/leet-code/tree/main/C++/Medium/0096-unique-binary-search-trees/) | Medium |
 | [0098-validate-binary-search-tree](https://github.com/surya0352/leet-code/tree/main/C++/Medium/0098-validate-binary-search-tree/) | Medium |
 | [0102-binary-tree-level-order-traversal](https://github.com/surya0352/leet-code/tree/main/C++/Medium/0102-binary-tree-level-order-traversal/) | Medium |
 | [0104-maximum-depth-of-binary-tree](https://github.com/surya0352/leet-code/tree/main/C++/Easy/0104-maximum-depth-of-binary-tree/) | Easy |
@@ -313,6 +317,7 @@ Leet Code Solutions
 ## Binary Search Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0096-unique-binary-search-trees](https://github.com/surya0352/leet-code/tree/main/C++/Medium/0096-unique-binary-search-trees/) | Medium |
 | [0098-validate-binary-search-tree](https://github.com/surya0352/leet-code/tree/main/C++/Medium/0098-validate-binary-search-tree/) | Medium |
 | [0450-delete-node-in-a-bst](https://github.com/surya0352/leet-code/tree/main/C++/Medium/0450-delete-node-in-a-bst/) | Medium |
 | [0700-search-in-a-binary-search-tree](https://github.com/surya0352/leet-code/tree/main/C++/Easy/0700-search-in-a-binary-search-tree/) | Easy |
