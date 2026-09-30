@@ -52,6 +52,7 @@ Leet Code Solutions
 | [2089-find-target-indices-after-sorting-array](https://github.com/surya0352/leet-code/tree/main/C++/Easy/2089-find-target-indices-after-sorting-array/) | Easy |
 | [2148-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/surya0352/leet-code/tree/main/C++/Easy/2148-count-elements-with-strictly-smaller-and-greater-elements/) | Easy |
 | [2570-merge-two-2d-arrays-by-summing-values](https://github.com/surya0352/leet-code/tree/main/C++/Easy/2570-merge-two-2d-arrays-by-summing-values/) | Easy |
+| [2678-number-of-senior-citizens](https://github.com/surya0352/leet-code/tree/main/C++/Easy/2678-number-of-senior-citizens/) | Easy |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/surya0352/leet-code/tree/main/C++/Easy/2824-count-pairs-whose-sum-is-less-than-target/) | Easy |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/surya0352/leet-code/tree/main/C++/Easy/3550-smallest-index-with-digit-sum-equal-to-index/) | Easy |
 | [3697-compute-decimal-representation](https://github.com/surya0352/leet-code/tree/main/C++/Easy/3697-compute-decimal-representation/) | Easy |
@@ -132,6 +133,7 @@ Leet Code Solutions
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/surya0352/leet-code/tree/main/C++/Easy/1662-check-if-two-string-arrays-are-equivalent/) | Easy |
 | [1768-merge-strings-alternately](https://github.com/surya0352/leet-code/tree/main/C++/Easy/1768-merge-strings-alternately/) | Easy |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/surya0352/leet-code/tree/main/C++/Easy/2011-final-value-of-variable-after-performing-operations/) | Easy |
+| [2678-number-of-senior-citizens](https://github.com/surya0352/leet-code/tree/main/C++/Easy/2678-number-of-senior-citizens/) | Easy |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/surya0352/leet-code/tree/main/C++/Easy/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
 | [3340-check-balanced-string](https://github.com/surya0352/leet-code/tree/main/C++/Easy/3340-check-balanced-string/) | Easy |
 ## Binary Search
