@@ -24,6 +24,7 @@ Leet Code Solutions
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0011-container-with-most-water](https://github.com/surya0352/leet-code/tree/main/C++/Medium/0011-container-with-most-water/) | Medium |
+| [0014-longest-common-prefix](https://github.com/surya0352/leet-code/tree/main/C++/Easy/0014-longest-common-prefix/) | Easy |
 | [0015-3sum](https://github.com/surya0352/leet-code/tree/main/C++/Medium/0015-3sum/) | Medium |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/surya0352/leet-code/tree/main/C++/Medium/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
 | [0078-subsets](https://github.com/surya0352/leet-code/tree/main/C++/Medium/0078-subsets/) | Medium |
@@ -124,6 +125,7 @@ Leet Code Solutions
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0008-string-to-integer-atoi](https://github.com/surya0352/leet-code/tree/main/C++/Medium/0008-string-to-integer-atoi/) | Medium |
+| [0014-longest-common-prefix](https://github.com/surya0352/leet-code/tree/main/C++/Easy/0014-longest-common-prefix/) | Easy |
 | [0020-valid-parentheses](https://github.com/surya0352/leet-code/tree/main/C++/Easy/0020-valid-parentheses/) | Easy |
 | [0151-reverse-words-in-a-string](https://github.com/surya0352/leet-code/tree/main/C++/Medium/0151-reverse-words-in-a-string/) | Medium |
 | [0389-find-the-difference](https://github.com/surya0352/leet-code/tree/main/C++/Easy/0389-find-the-difference/) | Easy |
@@ -328,4 +330,8 @@ Leet Code Solutions
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/surya0352/leet-code/tree/main/C++/Easy/0020-valid-parentheses/) | Easy |
+## Trie
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0014-longest-common-prefix](https://github.com/surya0352/leet-code/tree/main/C++/Easy/0014-longest-common-prefix/) | Easy |
 <!---LeetCode Topics End-->
