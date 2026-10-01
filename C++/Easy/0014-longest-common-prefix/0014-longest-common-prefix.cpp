@@ -10,7 +10,7 @@ public:
 
             for(int j = 1; j < strs.size(); j++) {
 
-                if(i >= strs[j].size() || strs[j][i] != ch) {
+                if( strs[j][i] != ch) {
                     return ans;
                 }
             }
