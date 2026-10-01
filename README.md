@@ -324,4 +324,8 @@ Leet Code Solutions
 | [0450-delete-node-in-a-bst](https://github.com/surya0352/leet-code/tree/main/C++/Medium/0450-delete-node-in-a-bst/) | Medium |
 | [0700-search-in-a-binary-search-tree](https://github.com/surya0352/leet-code/tree/main/C++/Easy/0700-search-in-a-binary-search-tree/) | Easy |
 | [0701-insert-into-a-binary-search-tree](https://github.com/surya0352/leet-code/tree/main/C++/Medium/0701-insert-into-a-binary-search-tree/) | Medium |
+## Bracket Sequences
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0020-valid-parentheses](https://github.com/surya0352/leet-code/tree/main/C++/Easy/0020-valid-parentheses/) | Easy |
 <!---LeetCode Topics End-->
