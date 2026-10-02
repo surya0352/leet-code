@@ -1,28 +1,27 @@
 class Solution {
 public:
-    bool isMatch(char a, char b) {
-        return a == '(' && b == ')' || a == '[' && b == ']' ||
-               a == '{' && b == '}';
-    }
+    bool isValid(string s) {
+        stack<int> st;
+        for (int i = 0; i < s.size(); i++) {
+            if (s[i] == '(' || s[i] == '[' || s[i] == '{') {
+                st.push(s[i]);
 
-    bool isBalanced(string& str) {
-        stack<char> s;
-        for (char x : str) {
-            if (x == '(' || x == '[' || x == '{') {
-                s.push(x);
             } else {
-                if (s.empty() == true) {
+                if (st.size() == 0) {
                     return false;
-                } else if (isMatch(s.top(), x) == false) {
+                }
+                if ((st.top() == '(' && s[i] == ')') ||
+                    (st.top() == '[' && s[i] == ']') ||
+                    (st.top() == '{' && s[i] == '}')) {
+                    st.pop();
+                }
+
+                else {
                     return false;
-                } else {
-                    s.pop();
                 }
             }
         }
-        return s.empty() == true;
+        
+        return st.size() == 0;
     }
-    bool isValid(string s) { 
-        return isBalanced(s);
-     }
 };
