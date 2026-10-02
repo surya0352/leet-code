@@ -127,6 +127,7 @@ Leet Code Solutions
 | [0008-string-to-integer-atoi](https://github.com/surya0352/leet-code/tree/main/C++/Medium/0008-string-to-integer-atoi/) | Medium |
 | [0014-longest-common-prefix](https://github.com/surya0352/leet-code/tree/main/C++/Easy/0014-longest-common-prefix/) | Easy |
 | [0020-valid-parentheses](https://github.com/surya0352/leet-code/tree/main/C++/Easy/0020-valid-parentheses/) | Easy |
+| [0022-generate-parentheses](https://github.com/surya0352/leet-code/tree/main/C++/Medium/0022-generate-parentheses/) | Medium |
 | [0151-reverse-words-in-a-string](https://github.com/surya0352/leet-code/tree/main/C++/Medium/0151-reverse-words-in-a-string/) | Medium |
 | [0389-find-the-difference](https://github.com/surya0352/leet-code/tree/main/C++/Easy/0389-find-the-difference/) | Easy |
 | [0409-longest-palindrome](https://github.com/surya0352/leet-code/tree/main/C++/Easy/0409-longest-palindrome/) | Easy |
@@ -205,6 +206,7 @@ Leet Code Solutions
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0022-generate-parentheses](https://github.com/surya0352/leet-code/tree/main/C++/Medium/0022-generate-parentheses/) | Medium |
 | [0070-climbing-stairs](https://github.com/surya0352/leet-code/tree/main/C++/Easy/0070-climbing-stairs/) | Easy |
 | [0096-unique-binary-search-trees](https://github.com/surya0352/leet-code/tree/main/C++/Medium/0096-unique-binary-search-trees/) | Medium |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/surya0352/leet-code/tree/main/C++/Easy/0121-best-time-to-buy-and-sell-stock/) | Easy |
@@ -298,6 +300,7 @@ Leet Code Solutions
 ## Backtracking
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0022-generate-parentheses](https://github.com/surya0352/leet-code/tree/main/C++/Medium/0022-generate-parentheses/) | Medium |
 | [0078-subsets](https://github.com/surya0352/leet-code/tree/main/C++/Medium/0078-subsets/) | Medium |
 ## Breadth-First Search
 | Problem Name | Difficulty |
@@ -330,6 +333,7 @@ Leet Code Solutions
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/surya0352/leet-code/tree/main/C++/Easy/0020-valid-parentheses/) | Easy |
+| [0022-generate-parentheses](https://github.com/surya0352/leet-code/tree/main/C++/Medium/0022-generate-parentheses/) | Medium |
 ## Trie
 | Problem Name | Difficulty |
 | ------- | ------- |
