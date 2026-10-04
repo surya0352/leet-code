@@ -151,6 +151,7 @@ Leet Code Solutions
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0050-powx-n](https://github.com/surya0352/leet-code/tree/main/C++/Medium/0050-powx-n/) | Medium |
 | [0070-climbing-stairs](https://github.com/surya0352/leet-code/tree/main/C++/Easy/0070-climbing-stairs/) | Easy |
 | [0096-unique-binary-search-trees](https://github.com/surya0352/leet-code/tree/main/C++/Medium/0096-unique-binary-search-trees/) | Medium |
 | [0204-count-primes](https://github.com/surya0352/leet-code/tree/main/C++/Medium/0204-count-primes/) | Medium |
@@ -226,6 +227,7 @@ Leet Code Solutions
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0050-powx-n](https://github.com/surya0352/leet-code/tree/main/C++/Medium/0050-powx-n/) | Medium |
 | [0509-fibonacci-number](https://github.com/surya0352/leet-code/tree/main/C++/Easy/0509-fibonacci-number/) | Easy |
 ## Memoization
 | Problem Name | Difficulty |
