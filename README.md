@@ -133,6 +133,7 @@ Leet Code Solutions
 | [0389-find-the-difference](https://github.com/surya0352/leet-code/tree/main/C++/Easy/0389-find-the-difference/) | Easy |
 | [0409-longest-palindrome](https://github.com/surya0352/leet-code/tree/main/C++/Easy/0409-longest-palindrome/) | Easy |
 | [0796-rotate-string](https://github.com/surya0352/leet-code/tree/main/C++/Easy/0796-rotate-string/) | Easy |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/surya0352/leet-code/tree/main/C++/Medium/0921-minimum-add-to-make-parentheses-valid/) | Medium |
 | [1108-defanging-an-ip-address](https://github.com/surya0352/leet-code/tree/main/C++/Easy/1108-defanging-an-ip-address/) | Easy |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/surya0352/leet-code/tree/main/C++/Easy/1662-check-if-two-string-arrays-are-equivalent/) | Easy |
 | [1768-merge-strings-alternately](https://github.com/surya0352/leet-code/tree/main/C++/Easy/1768-merge-strings-alternately/) | Easy |
@@ -182,6 +183,7 @@ Leet Code Solutions
 | ------- | ------- |
 | [0011-container-with-most-water](https://github.com/surya0352/leet-code/tree/main/C++/Medium/0011-container-with-most-water/) | Medium |
 | [0409-longest-palindrome](https://github.com/surya0352/leet-code/tree/main/C++/Easy/0409-longest-palindrome/) | Easy |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/surya0352/leet-code/tree/main/C++/Medium/0921-minimum-add-to-make-parentheses-valid/) | Medium |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/surya0352/leet-code/tree/main/C++/Easy/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
@@ -206,6 +208,7 @@ Leet Code Solutions
 | [0094-binary-tree-inorder-traversal](https://github.com/surya0352/leet-code/tree/main/C++/Easy/0094-binary-tree-inorder-traversal/) | Easy |
 | [0144-binary-tree-preorder-traversal](https://github.com/surya0352/leet-code/tree/main/C++/Easy/0144-binary-tree-preorder-traversal/) | Easy |
 | [0145-binary-tree-postorder-traversal](https://github.com/surya0352/leet-code/tree/main/C++/Easy/0145-binary-tree-postorder-traversal/) | Easy |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/surya0352/leet-code/tree/main/C++/Medium/0921-minimum-add-to-make-parentheses-valid/) | Medium |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -338,6 +341,7 @@ Leet Code Solutions
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/surya0352/leet-code/tree/main/C++/Easy/0020-valid-parentheses/) | Easy |
 | [0022-generate-parentheses](https://github.com/surya0352/leet-code/tree/main/C++/Medium/0022-generate-parentheses/) | Medium |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/surya0352/leet-code/tree/main/C++/Medium/0921-minimum-add-to-make-parentheses-valid/) | Medium |
 ## Trie
 | Problem Name | Difficulty |
 | ------- | ------- |
