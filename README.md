@@ -141,6 +141,7 @@ Leet Code Solutions
 | [2678-number-of-senior-citizens](https://github.com/surya0352/leet-code/tree/main/C++/Easy/2678-number-of-senior-citizens/) | Easy |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/surya0352/leet-code/tree/main/C++/Easy/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
 | [3340-check-balanced-string](https://github.com/surya0352/leet-code/tree/main/C++/Easy/3340-check-balanced-string/) | Easy |
+| [3498-reverse-degree-of-a-string](https://github.com/surya0352/leet-code/tree/main/C++/Easy/3498-reverse-degree-of-a-string/) | Easy |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -195,6 +196,7 @@ Leet Code Solutions
 | [0258-add-digits](https://github.com/surya0352/leet-code/tree/main/C++/Easy/0258-add-digits/) | Easy |
 | [1920-build-array-from-permutation](https://github.com/surya0352/leet-code/tree/main/C++/Easy/1920-build-array-from-permutation/) | Easy |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/surya0352/leet-code/tree/main/C++/Easy/2011-final-value-of-variable-after-performing-operations/) | Easy |
+| [3498-reverse-degree-of-a-string](https://github.com/surya0352/leet-code/tree/main/C++/Easy/3498-reverse-degree-of-a-string/) | Easy |
 ## Number Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
