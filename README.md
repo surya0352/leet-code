@@ -78,6 +78,7 @@ Leet Code Solutions
 | [0219-contains-duplicate-ii](https://github.com/surya0352/leet-code/tree/main/C++/Easy/0219-contains-duplicate-ii/) | Easy |
 | [0389-find-the-difference](https://github.com/surya0352/leet-code/tree/main/C++/Easy/0389-find-the-difference/) | Easy |
 | [0409-longest-palindrome](https://github.com/surya0352/leet-code/tree/main/C++/Easy/0409-longest-palindrome/) | Easy |
+| [0771-jewels-and-stones](https://github.com/surya0352/leet-code/tree/main/C++/Easy/0771-jewels-and-stones/) | Easy |
 | [1207-unique-number-of-occurrences](https://github.com/surya0352/leet-code/tree/main/C++/Easy/1207-unique-number-of-occurrences/) | Easy |
 | [1346-check-if-n-and-its-double-exist](https://github.com/surya0352/leet-code/tree/main/C++/Easy/1346-check-if-n-and-its-double-exist/) | Easy |
 | [1394-find-lucky-integer-in-an-array](https://github.com/surya0352/leet-code/tree/main/C++/Easy/1394-find-lucky-integer-in-an-array/) | Easy |
@@ -132,6 +133,7 @@ Leet Code Solutions
 | [0151-reverse-words-in-a-string](https://github.com/surya0352/leet-code/tree/main/C++/Medium/0151-reverse-words-in-a-string/) | Medium |
 | [0389-find-the-difference](https://github.com/surya0352/leet-code/tree/main/C++/Easy/0389-find-the-difference/) | Easy |
 | [0409-longest-palindrome](https://github.com/surya0352/leet-code/tree/main/C++/Easy/0409-longest-palindrome/) | Easy |
+| [0771-jewels-and-stones](https://github.com/surya0352/leet-code/tree/main/C++/Easy/0771-jewels-and-stones/) | Easy |
 | [0796-rotate-string](https://github.com/surya0352/leet-code/tree/main/C++/Easy/0796-rotate-string/) | Easy |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/surya0352/leet-code/tree/main/C++/Medium/0921-minimum-add-to-make-parentheses-valid/) | Medium |
 | [1108-defanging-an-ip-address](https://github.com/surya0352/leet-code/tree/main/C++/Easy/1108-defanging-an-ip-address/) | Easy |
