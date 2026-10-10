@@ -354,4 +354,8 @@ Leet Code Solutions
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0074-search-a-2d-matrix](https://github.com/surya0352/leet-code/tree/main/C++/Medium/0074-search-a-2d-matrix/) | Medium |
+## Database
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1757-recyclable-and-low-fat-products](https://github.com/surya0352/leet-code/tree/main/MySQL/Easy/1757-recyclable-and-low-fat-products/) | Easy |
 <!---LeetCode Topics End-->
