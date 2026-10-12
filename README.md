@@ -56,6 +56,7 @@ Leet Code Solutions
 | [2570-merge-two-2d-arrays-by-summing-values](https://github.com/surya0352/leet-code/tree/main/C++/Easy/2570-merge-two-2d-arrays-by-summing-values/) | Easy |
 | [2678-number-of-senior-citizens](https://github.com/surya0352/leet-code/tree/main/C++/Easy/2678-number-of-senior-citizens/) | Easy |
 | [2778-sum-of-squares-of-special-elements](https://github.com/surya0352/leet-code/tree/main/C++/Easy/2778-sum-of-squares-of-special-elements/) | Easy |
+| [2798-number-of-employees-who-met-the-target](https://github.com/surya0352/leet-code/tree/main/C++/Easy/2798-number-of-employees-who-met-the-target/) | Easy |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/surya0352/leet-code/tree/main/C++/Easy/2824-count-pairs-whose-sum-is-less-than-target/) | Easy |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/surya0352/leet-code/tree/main/C++/Easy/3550-smallest-index-with-digit-sum-equal-to-index/) | Easy |
 | [3697-compute-decimal-representation](https://github.com/surya0352/leet-code/tree/main/C++/Easy/3697-compute-decimal-representation/) | Easy |
