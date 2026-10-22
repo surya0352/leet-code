@@ -40,6 +40,7 @@ Leet Code Solutions
 | [0287-find-the-duplicate-number](https://github.com/surya0352/leet-code/tree/main/C++/Medium/0287-find-the-duplicate-number/) | Medium |
 | [0414-third-maximum-number](https://github.com/surya0352/leet-code/tree/main/C++/Easy/0414-third-maximum-number/) | Easy |
 | [0628-maximum-product-of-three-numbers](https://github.com/surya0352/leet-code/tree/main/C++/Easy/0628-maximum-product-of-three-numbers/) | Easy |
+| [0739-daily-temperatures](https://github.com/surya0352/leet-code/tree/main/C++/Medium/0739-daily-temperatures/) | Medium |
 | [1089-duplicate-zeros](https://github.com/surya0352/leet-code/tree/main/C++/Easy/1089-duplicate-zeros/) | Easy |
 | [1207-unique-number-of-occurrences](https://github.com/surya0352/leet-code/tree/main/C++/Easy/1207-unique-number-of-occurrences/) | Easy |
 | [1232-check-if-it-is-a-straight-line](https://github.com/surya0352/leet-code/tree/main/C++/Easy/1232-check-if-it-is-a-straight-line/) | Easy |
@@ -220,6 +221,7 @@ Leet Code Solutions
 | [0094-binary-tree-inorder-traversal](https://github.com/surya0352/leet-code/tree/main/C++/Easy/0094-binary-tree-inorder-traversal/) | Easy |
 | [0144-binary-tree-preorder-traversal](https://github.com/surya0352/leet-code/tree/main/C++/Easy/0144-binary-tree-preorder-traversal/) | Easy |
 | [0145-binary-tree-postorder-traversal](https://github.com/surya0352/leet-code/tree/main/C++/Easy/0145-binary-tree-postorder-traversal/) | Easy |
+| [0739-daily-temperatures](https://github.com/surya0352/leet-code/tree/main/C++/Medium/0739-daily-temperatures/) | Medium |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/surya0352/leet-code/tree/main/C++/Medium/0921-minimum-add-to-make-parentheses-valid/) | Medium |
 ## Dynamic Programming
 | Problem Name | Difficulty |
@@ -371,4 +373,8 @@ Leet Code Solutions
 | [1148-article-views-i](https://github.com/surya0352/leet-code/tree/main/MySQL/Easy/1148-article-views-i/) | Easy |
 | [1683-invalid-tweets](https://github.com/surya0352/leet-code/tree/main/MySQL/Easy/1683-invalid-tweets/) | Easy |
 | [1757-recyclable-and-low-fat-products](https://github.com/surya0352/leet-code/tree/main/MySQL/Easy/1757-recyclable-and-low-fat-products/) | Easy |
+## Monotonic Stack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0739-daily-temperatures](https://github.com/surya0352/leet-code/tree/main/C++/Medium/0739-daily-temperatures/) | Medium |
 <!---LeetCode Topics End-->
