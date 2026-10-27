@@ -56,6 +56,7 @@ Leet Code Solutions
 | [2148-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/surya0352/leet-code/tree/main/C++/Easy/2148-count-elements-with-strictly-smaller-and-greater-elements/) | Easy |
 | [2149-rearrange-array-elements-by-sign](https://github.com/surya0352/leet-code/tree/main/C++/Medium/2149-rearrange-array-elements-by-sign/) | Medium |
 | [2161-partition-array-according-to-given-pivot](https://github.com/surya0352/leet-code/tree/main/C++/Medium/2161-partition-array-according-to-given-pivot/) | Medium |
+| [2418-sort-the-people](https://github.com/surya0352/leet-code/tree/main/C++/Easy/2418-sort-the-people/) | Easy |
 | [2570-merge-two-2d-arrays-by-summing-values](https://github.com/surya0352/leet-code/tree/main/C++/Easy/2570-merge-two-2d-arrays-by-summing-values/) | Easy |
 | [2678-number-of-senior-citizens](https://github.com/surya0352/leet-code/tree/main/C++/Easy/2678-number-of-senior-citizens/) | Easy |
 | [2778-sum-of-squares-of-special-elements](https://github.com/surya0352/leet-code/tree/main/C++/Easy/2778-sum-of-squares-of-special-elements/) | Easy |
@@ -88,6 +89,7 @@ Leet Code Solutions
 | [1346-check-if-n-and-its-double-exist](https://github.com/surya0352/leet-code/tree/main/C++/Easy/1346-check-if-n-and-its-double-exist/) | Easy |
 | [1394-find-lucky-integer-in-an-array](https://github.com/surya0352/leet-code/tree/main/C++/Easy/1394-find-lucky-integer-in-an-array/) | Easy |
 | [1748-sum-of-unique-elements](https://github.com/surya0352/leet-code/tree/main/C++/Easy/1748-sum-of-unique-elements/) | Easy |
+| [2418-sort-the-people](https://github.com/surya0352/leet-code/tree/main/C++/Easy/2418-sort-the-people/) | Easy |
 | [2570-merge-two-2d-arrays-by-summing-values](https://github.com/surya0352/leet-code/tree/main/C++/Easy/2570-merge-two-2d-arrays-by-summing-values/) | Easy |
 | [3718-smallest-missing-multiple-of-k](https://github.com/surya0352/leet-code/tree/main/C++/Easy/3718-smallest-missing-multiple-of-k/) | Easy |
 | [3731-find-missing-elements](https://github.com/surya0352/leet-code/tree/main/C++/Easy/3731-find-missing-elements/) | Easy |
@@ -110,6 +112,7 @@ Leet Code Solutions
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/surya0352/leet-code/tree/main/C++/Easy/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [2089-find-target-indices-after-sorting-array](https://github.com/surya0352/leet-code/tree/main/C++/Easy/2089-find-target-indices-after-sorting-array/) | Easy |
 | [2148-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/surya0352/leet-code/tree/main/C++/Easy/2148-count-elements-with-strictly-smaller-and-greater-elements/) | Easy |
+| [2418-sort-the-people](https://github.com/surya0352/leet-code/tree/main/C++/Easy/2418-sort-the-people/) | Easy |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/surya0352/leet-code/tree/main/C++/Easy/2824-count-pairs-whose-sum-is-less-than-target/) | Easy |
 | [3536-maximum-product-of-two-digits](https://github.com/surya0352/leet-code/tree/main/C++/Easy/3536-maximum-product-of-two-digits/) | Easy |
 | [3731-find-missing-elements](https://github.com/surya0352/leet-code/tree/main/C++/Easy/3731-find-missing-elements/) | Easy |
@@ -147,6 +150,7 @@ Leet Code Solutions
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/surya0352/leet-code/tree/main/C++/Easy/1662-check-if-two-string-arrays-are-equivalent/) | Easy |
 | [1768-merge-strings-alternately](https://github.com/surya0352/leet-code/tree/main/C++/Easy/1768-merge-strings-alternately/) | Easy |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/surya0352/leet-code/tree/main/C++/Easy/2011-final-value-of-variable-after-performing-operations/) | Easy |
+| [2418-sort-the-people](https://github.com/surya0352/leet-code/tree/main/C++/Easy/2418-sort-the-people/) | Easy |
 | [2678-number-of-senior-citizens](https://github.com/surya0352/leet-code/tree/main/C++/Easy/2678-number-of-senior-citizens/) | Easy |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/surya0352/leet-code/tree/main/C++/Easy/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
 | [3340-check-balanced-string](https://github.com/surya0352/leet-code/tree/main/C++/Easy/3340-check-balanced-string/) | Easy |
